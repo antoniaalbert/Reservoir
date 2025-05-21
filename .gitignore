@@ -1,0 +1,12 @@
+# Systemdateien
+.DS_Store
+
+# Lokale Datenbank
+database.db
+
+# Node.js-Module
+node_modules/
+
+# Upload-Verzeichnis
+uploads/
+
